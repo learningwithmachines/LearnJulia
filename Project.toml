@@ -1,0 +1,14 @@
+name = "LearnJulia"
+uuid = "3d9626a4-3459-11e9-123a-2b210fb20e95"
+authors = ["Krishna <ksquarekumar@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SharedArrays = "1a1011a3-84de-559e-8e89-a11a2f7dc383"
+ThinkJulia = "d92244c1-9090-5a36-a620-f6fb516cc00e"

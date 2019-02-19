@@ -1,0 +1,2 @@
+Family("Joneses", AbstractString["Joneses"], false)
+Family("joneses", AbstractString["anna", "bob", "charlie", "dick"], true)
